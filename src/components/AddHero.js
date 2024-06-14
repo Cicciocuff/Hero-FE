@@ -15,7 +15,7 @@ const AddHero = () => {
         setSuperpower('');
         setMainEnemy('');
         
-        const updatedHeroes = await fetchHeroes();
+
     };
 
     return (
